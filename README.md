@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, eu sou o Cleiton Carillo</h1>
 <h3 align="center">Bacharel em Física com ênfase em Astrofísica, atualmente estou me especializando na área da Ciência e Análise de dados!</h3>
 
-- 🔭 Atualmente estou trabalhando como **professor no Ensino Superior**
+- 🔭 Atualmente estou trabalhando como **professor na Faculdade Anhanguera**
 
-- 👯 Eu procuro colaborar em **projetos de Ciência e Análise de dados**
+- 👯 Procuro colaborar em **projetos de Ciência e Análise de dados**
 
 - 💬 Me pergunte sobre **Python, SQL, Análise de dados, Ciência de dados, Física, Astronomia,...**
 
